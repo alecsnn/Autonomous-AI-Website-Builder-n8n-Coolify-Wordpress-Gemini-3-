@@ -9,7 +9,7 @@ A fully autonomous workflow that deploys, designs, and populates a Dockerized Wo
 ![alt text](https://img.shields.io/badge/AI-Gemini%203-4285F4?style=for-the-badge&logo=google)
 
 📖 Overview
-
+тттттт
 This repository contains an end-to-end automation pipeline designed for Service Businesses and AI Agencies. It transforms a single user prompt (e.g., "Create a modern website for a Solar Panel installation company in Texas") into a fully deployed, content-rich, and interactive website.
 
 By leveraging Google Gemini 3 for intelligence and Coolify for infrastructure, this tool treats WordPress as a headless CMS database while injecting a high-performance, AI-architected Single Page Application (SPA) frontend directly into the Elementor Canvas.
